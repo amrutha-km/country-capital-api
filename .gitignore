@@ -1,5 +1,7 @@
+/build/
+
 *.env
 
-test-runs/logs
+test-runs/logs/fool.log
 
 *.csv
