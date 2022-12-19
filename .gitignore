@@ -1,7 +1,13 @@
 /build/
+#All files inside the build directory at the root of the repository
+
 
 *.env
+#All files ending with *.env
 
 test-runs/logs/fool.log
+#All files in the subdirectory test-runs/logs
+
 
 *.csv
+#All CSV files anywhere in the repository
