@@ -5,4 +5,4 @@ The repository contains houses the code for an API written in Python and Flask t
 -	The ASGI server Uvicorn is used to serve this API
 
 ## MicroService End point
- [ micro service end point vaoailbale for this API]( https://example.com/country-capital/<query-params>)
+ [ micro service end point available for this API]( https://example.com/country-capital/<query-params>)
